@@ -1,5 +1,6 @@
 #pragma once
 #include"MyString.h"
+//sdfsfsfwerweqw
 
 
 template<typename T>
