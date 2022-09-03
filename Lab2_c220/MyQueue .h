@@ -53,7 +53,7 @@ private:
 public:
 	
 	//MyQueue<T>() {}
-	//sdfsdgsgf
+	
 
 	MyQueue(std::initializer_list<T> data)
 	{
