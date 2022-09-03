@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\main.cpp(19,4): warning C4101: 'myobject': unreferenced local variable
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\MyQueue .h(159,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\MyQueue .h(157): message : while compiling class template member function 'void MyQueue<MyString>::push(const T &)'
+          with
+          [
+              T=MyString
+          ]
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\main.cpp(32): message : see reference to function template instantiation 'void MyQueue<MyString>::push(const T &)' being compiled
+          with
+          [
+              T=MyString
+          ]
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\main.cpp(25): message : see reference to class template instantiation 'MyQueue<MyString>' being compiled
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\MyQueue .h(107,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\MyQueue .h(100): message : while compiling class template member function 'MyQueue<MyString> &MyQueue<MyString>::operator =(const MyQueue<MyString> &)'
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\main.cpp(40): message : see reference to function template instantiation 'MyQueue<MyString> &MyQueue<MyString>::operator =(const MyQueue<MyString> &)' being compiled
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\MyQueue .h(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\MyQueue .h(85): message : while compiling class template member function 'MyQueue<MyString>::MyQueue(const MyQueue<MyString> &)'
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\main.cpp(36): message : see reference to function template instantiation 'MyQueue<MyString>::MyQueue(const MyQueue<MyString> &)' being compiled
+  MyQueue.cpp
+  MyString.cpp
+C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Lab2_c220\MyString.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+  MyUniquePTR.cpp
+  Generating Code...
+  Lab2_c220.vcxproj -> C:\Users\Redmi Book Pro 14\Documents\C++\VS\C220\Lab2_c220\Debug\Lab2_c220.exe
